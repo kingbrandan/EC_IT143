@@ -1,0 +1,3 @@
+-- Q: What is the total transaction amount per family?
+
+-- A: Let's ask SQL Server and find out...

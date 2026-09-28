@@ -1,0 +1,1 @@
+SELECT * INTO dbo.t_MyFC_PlayerCount FROM [MyFC].[dbo].[tblPlayerDim];
